@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello Semantic Relese")
+	fmt.Println("Hello Semantic Release")
 }
