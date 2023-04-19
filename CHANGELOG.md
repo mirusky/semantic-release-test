@@ -1,3 +1,10 @@
+# [4.1.0](https://github.com/mirusky/semantic-release-test/compare/v4.0.0...v4.1.0) (2023-04-19)
+
+
+### Features
+
+* new feat ([6bf9a97](https://github.com/mirusky/semantic-release-test/commit/6bf9a97c3451f90756239580f9eae0269852bd2d))
+
 # 1.0.0 (2023-04-19)
 
 
